@@ -1,11 +1,13 @@
 <h2 align="left">Hello 👋! My name is AYOUB and I'm a Student Developper</h2>
 
 ### My Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cs,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cs,lua,python)](https://skillicons.dev)
 ### Build tools
 [![My Skills](https://skillicons.dev/icons?i=gradle,maven,dotnet)](https://skillicons.dev)
-### IDE's I've already touched
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
+### Ide's experiences
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,robloxstudio,idea,rider,phpstorm)](https://skillicons.dev)
+### OS experience
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,fedora)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
 
