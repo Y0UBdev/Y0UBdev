@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Sirius and I'm a Student Developper</h2>
+<h2 align="left">Hello 👋! My name is Ayoub B. and I'm a Student Developper</h2>
 
 ### My Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite,c,cs,lua,react,python,flask)](https://skillicons.dev)
