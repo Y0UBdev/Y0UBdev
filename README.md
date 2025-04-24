@@ -7,7 +7,7 @@
 ### Ide's experiences
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,robloxstudio,idea,rider,phpstorm)](https://skillicons.dev)
 ### OS experience
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,fedora)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,fedora)](https://skillicons.dev)
 
 ###
 
