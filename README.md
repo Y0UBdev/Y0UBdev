@@ -1,7 +1,7 @@
 <h2 align="left">Hello 👋! My name is Ayoub B. and I'm a Student Developper</h2>
 
 ### My Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite,c,cs,lua,react,python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite,c,cs,lua,react,typescript,tailwind,laravel,python,flask)](https://skillicons.dev)
 ### Build tools
 [![My Skills](https://skillicons.dev/icons?i=gradle,maven,dotnet)](https://skillicons.dev)
 ### Ide's experiences
